@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+body {
+    font-family: 'Georama', sans-serif;
+}
+
+.nav-logo {
+    height: 40px;
+    width: 40px;
+    transition: transform .2s ease;
+}
+
+.nav-logo:hover {
+    transform: rotate(360deg)
+}
+
+.logo-text {
+    font-family: 'Parisienne', cursive;
+}
+
+/*
+.topHome {
+    background-image: url("assets/pizza.jpg");
+    background-size: cover;
+    height: 80vh;
+    background-color: rgba(0,0,0,.5)
+}
+*/
+
+.topHome {
+    background-image: url("assets/pizza.jpg");
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    background-size: cover;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.button {
+    width: 150px;
+}
