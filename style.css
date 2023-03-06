@@ -43,3 +43,7 @@ body {
     font-family: 'Parisienne', cursive;
     border-bottom: 1px solid gray;
 }
+
+.fa-brands:hover {
+    cursor: pointer;
+}
