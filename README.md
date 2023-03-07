@@ -1,4 +1,4 @@
 # Best-Pizza-Restaurant
-Practice for a fake pizza restaurant
+Fake pizza website built with Bootstrap
 
-Visit is the single-page app **[here](https://bestpizzarestaurant.netlify.app/)**
+Visit is the single-page site **[here](https://bestpizzarestaurant.netlify.app/)**
